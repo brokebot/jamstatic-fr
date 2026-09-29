@@ -321,7 +321,7 @@ Alors c'est classe non ? Maintenant allez voir le site et le code source par vou
 
 Bon, je crois que notre travail est terminé mes amis.
 
-Au cas où vous vous demanderiez si le résultat final est assez rapide, vous pouvez utiliser un autre outil assez cool de Netlify : [Testmysite.io](https://testmysite.io). Notre démo obtient un score de 87/100, c'est pas si mal.
+Au cas où vous vous demanderiez si le résultat final est assez rapide, vous pouvez utiliser un autre outil : [PageGym](https://pagegym.com). Notre démo obtient un score de 87/100, c'est pas si mal.
 
 Au fait, si vous développez un site Jamstack pour un client, vous voudrez peut-être effectuer un suivi de sa performance à l’aide de [Speedtracker, un outil open source](https://speedtracker.org/). Les équipes
 techniques seront peut-être intéressées par [ce workflow de publication pour Hugo](https://www.keybits.net/post/publishing-workflow-for-teams-using-static-site-generators/).
